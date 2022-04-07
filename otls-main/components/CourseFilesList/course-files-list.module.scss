@@ -1,0 +1,36 @@
+.kTable {
+  tr,
+  td,
+  th {
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    padding: 4px 1em;
+  }
+  th {
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  th,
+  td {
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+    border-bottom: none;
+    border-top: none;
+  }
+
+  thead,
+  tbody {
+    border: 1px solid #dee2e6 !important;
+  }
+  thead {
+    background-color: rgba(0 0 0/ 0.03) !important;
+  }
+  tbody > tr:nth-of-type(even) > * {
+    background-color: rgba(0 0 0/ 0.03) !important;
+  }
+}
+.text-right {
+  text-align: right;
+}

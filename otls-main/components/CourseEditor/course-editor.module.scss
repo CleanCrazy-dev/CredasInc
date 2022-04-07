@@ -1,0 +1,28 @@
+.grey-btn {
+  background-color: #e4e7eb;
+  color: black;
+  height: 40px;
+  border-radius: 0;
+  width: 38px;
+  outline: none !important;
+}
+
+.editor-toolbar {
+  background: #f8f9fa;
+}
+.editor {
+  border: 1px solid #dee2e6;
+  height: calc(100% - 16px);
+}
+.editor-body {
+  height: calc(100% - 104px);
+  outline: none;
+  padding: 16px;
+}
+.btn-active {
+  background-color: #007b78;
+}
+.btn-containers {
+  border-radius: 3px;
+  overflow: hidden;
+}

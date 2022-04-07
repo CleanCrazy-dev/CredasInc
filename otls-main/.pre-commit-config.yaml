@@ -1,0 +1,22 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.2.0
+    hooks:
+      - id: trailing-whitespace
+        exclude: ^locales/
+      - id: end-of-file-fixer
+        exclude: ^locales/
+      - id: check-yaml
+        exclude: ^locales/
+      - id: check-added-large-files
+        exclude: ^locales/
+  - repo: local
+    hooks:
+      - id: update-translations
+        name: Update translations
+        language: system
+        pass_filenames: false
+        entry: bash -c 'npm run i18n'
+        files: \.[jt]sx?$

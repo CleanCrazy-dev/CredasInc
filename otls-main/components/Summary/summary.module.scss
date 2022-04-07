@@ -1,0 +1,61 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "@/styles/otls-variables.scss";
+
+.summary__content {
+  border-radius: 8px;
+  padding: 2rem;
+  height: 100%;
+  background-color: $gray-100;
+  @media (min-width: 768px) {
+    padding: 2.5rem;
+  }
+}
+
+.summary__title {
+  font-size: 1.1875rem;
+  line-height: 1.5625rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.event {
+  border-left: 2px solid $otls-primary;
+  padding-left: 1.5rem;
+  span {
+    color: $otls-base-text;
+    font-weight: 700;
+    font-size: 0.875rem;
+    line-height: 1.1875rem;
+    &.event__name--lg {
+      font-weight: 400;
+      font-size: 1.1875rem;
+    }
+    &.event__text {
+      font-size: 0.8125rem;
+    }
+  }
+  p {
+    color: $otls-primary;
+    font-size: 1.75rem;
+    line-height: 2.3125rem;
+    margin: 0;
+  }
+  a,
+  button {
+    padding: 0;
+    background: none;
+    border: none;
+    font: inherit;
+    &,
+    &:hover {
+      color: inherit;
+    }
+    & {
+      text-decoration: none;
+    }
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

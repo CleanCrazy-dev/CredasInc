@@ -1,0 +1,195 @@
+// Styles in this file will be applied to the whole website.
+// Styles in "*.module.scss" will only be applied to components that import them.
+// Do NOT import this file into "*.module.scss" files.
+
+@import "otls-variables.scss";
+@import "overwrites.scss";
+
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;700&display=swap");
+@import "bootstrap/scss/bootstrap.scss";
+
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+@import "~tailwindcss/utilities";
+
+*,
+body {
+  font-family: "Karla", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.custom-card {
+  border: none;
+  background: $card-background-color;
+  border-radius: 8px;
+  padding: 20px;
+  color: $light-text-color;
+}
+
+.nav-tab {
+  &:hover {
+    color: $primary;
+  }
+}
+.active-tab {
+  border-bottom: $primary 3px solid;
+}
+.icon {
+  margin-left: 10px;
+  color: $primary;
+  cursor: pointer;
+}
+.primary-line {
+  width: 3px;
+  height: 10px;
+  background: $primary;
+}
+
+@for $i from 0 to 5 {
+  .my-#{($i * 8)}px {
+    margin-top: #{$i * 8}px;
+    margin-bottom: #{$i * 8}px;
+  }
+  .mt-#{($i * 8)}px {
+    margin-top: #{$i * 8}px;
+  }
+  .ml-#{($i * 8)}px {
+    margin-left: #{$i * 8}px;
+  }
+  .mr-#{($i * 8)}px {
+    margin-right: #{$i * 8}px;
+  }
+  .mb-#{($i * 8)}px {
+    margin-bottom: #{$i * 8}px;
+  }
+  .pl-#{($i * 8)}px {
+    padding-left: #{$i * 8}px;
+  }
+  .pr-#{($i * 8)}px {
+    padding-right: #{$i * 8}px;
+  }
+  .pt-#{($i * 8)}px {
+    padding-top: #{$i * 8}px;
+  }
+  .p-#{($i * 8)}px {
+    padding: #{$i * 8}px;
+  }
+}
+
+.rounded-modal {
+  .modal-content {
+    border-radius: 16px;
+  }
+}
+
+.no-close-btn {
+  .btn-close {
+    display: none;
+  }
+}
+.text-bold {
+  font-weight: bold;
+}
+.text-semibold {
+  font-weight: 450;
+}
+.text-right {
+  text-align: right;
+}
+
+input[type="date"] {
+  position: relative;
+  ::-webkit-calendar-picker-indicator {
+    background-color: #e4e7eb;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 20px;
+    width: 20px;
+    color: grey;
+    padding: 10px;
+  }
+}
+input[type="checkbox"]:checked {
+  background-color: #007b78;
+}
+.base-text {
+  color: #495057;
+}
+input[list]::-webkit-calendar-picker-indicator {
+  display: none !important;
+  background-color: inherit;
+}
+
+.input-file-container {
+  height: 40px;
+  width: 100%;
+  border: 1px solid #dee2e6;
+  padding: 0 16px;
+  font-size: 15px;
+  color: #495057;
+  line-height: 32px;
+  position: relative;
+
+  input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    opacity: 0;
+  }
+  label {
+    position: relative;
+    z-index: 1;
+    line-height: 39px;
+    max-width: calc(100% - 50px);
+  }
+  .prefix {
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    top: 0;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background: #e4e7eb;
+  }
+}
+.lh-32px {
+  line-height: 32px;
+}
+.page__header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.page__header_back {
+  font-weight: 700;
+  font-size: 0.875rem;
+  line-height: 1.7;
+  color: $otls-base-text;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 0.5625rem;
+  letter-spacing: 2px;
+  svg {
+    margin-right: 0.6875rem;
+    &:last-of-type:not(:first-child) {
+      margin-left: 0.6875rem;
+    }
+  }
+}
+
+.page__header_ctas {
+  > *:not(:last-child) {
+    margin-right: 0.5rem;
+  }
+}

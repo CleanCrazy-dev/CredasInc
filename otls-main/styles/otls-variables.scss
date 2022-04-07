@@ -1,0 +1,40 @@
+// A list of Sass variables used in this project.
+// Defer to Bootstrap and CTIP-UI variables when possible.
+
+// Color
+$otls-primary: #007b78;
+$otls-primary-ondark: #00d1cc;
+$otls-base-text: #495057;
+
+// Table
+$otls-table-bg: rgba(0, 0, 0, 0.03);
+$card-background-color: #f8f9fa;
+$light-text-color: #6c757d;
+$primary: #007b78;
+$text-color: #495057;
+$base-text: #495057;
+
+$notification-info-bg: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.72),
+    rgba(255, 255, 255, 0.72)
+  ),
+  #a4cdcb;
+$notification-warning-bg: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.72),
+    rgba(255, 255, 255, 0.72)
+  ),
+  #dcb322;
+$notification-error-bg: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.72),
+    rgba(255, 255, 255, 0.72)
+  ),
+  #dc4935;
+$notification-success-border: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.8)
+  ),
+  #72a10d;

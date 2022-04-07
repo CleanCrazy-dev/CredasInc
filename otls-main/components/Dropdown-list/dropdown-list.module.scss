@@ -1,0 +1,45 @@
+@import "../../styles/utils.scss";
+
+.kDropDownList {
+  position: relative;
+  display: block;
+  background: #ffffff;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 2px;
+  height: 40px;
+  &,
+  select,
+  option {
+    font-size: 14px;
+  }
+
+  &:hover {
+    background-color: white;
+  }
+
+  select {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white !important;
+    height: 100%;
+    border: none;
+  }
+  button {
+    width: 25px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 39px;
+    width: 37px;
+    border: none;
+    // background: red;
+    background: #e4e7eb;
+    line-height: 32px;
+    padding: 0;
+    line-height: 32px;
+  }
+}

@@ -1,0 +1,17 @@
+.order_section_before_address {
+  order: 8;
+  @media (min-width: 992px) {
+    order: 7;
+  }
+}
+
+.order_section_address {
+  order: 7;
+  @media (min-width: 992px) {
+    order: 8;
+  }
+}
+
+.order_section_9 {
+  order: 9;
+}

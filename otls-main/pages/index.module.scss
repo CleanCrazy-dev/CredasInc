@@ -1,0 +1,15 @@
+.profile_carousel {
+  > div {
+    position: relative;
+    > div {
+      background-color: transparent !important;
+      position: static;
+      > div:last-child:not(:first-child) {
+        bottom: -6.25rem;
+        position: absolute;
+        right: 0;
+        z-index: 1;
+      }
+    }
+  }
+}

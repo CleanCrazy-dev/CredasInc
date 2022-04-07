@@ -1,0 +1,23 @@
+@import "../../../../components/organization-modal/organization-modal.module.scss";
+
+.grey-card {
+  align-items: flex-start;
+  padding: 40px;
+  position: static;
+  width: 1140px;
+  height: 150.16px;
+  left: 0px;
+  top: 0px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.title {
+  font-size: 1.6em;
+}
+.go-back-link {
+  text-decoration: none;
+  color: #495057;
+  font-size: 14px;
+}

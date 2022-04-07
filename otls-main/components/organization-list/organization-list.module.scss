@@ -1,0 +1,93 @@
+@for $i from 1 to 3 {
+  .my-#{($i * 8)}px {
+    margin-top: #{$i * 8}px;
+    margin-bottom: #{$i * 8}px;
+  }
+  .mt-#{($i * 8)}px {
+    margin-top: #{$i * 8}px;
+  }
+  .mb-#{($i * 8)}px {
+    margin-bottom: #{$i * 8}px;
+  }
+}
+.kDropDownList {
+  position: relative;
+  display: block;
+  background: #ffffff;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 2px;
+  height: 40px;
+  &,
+  select,
+  option {
+    font-size: 14px;
+  }
+
+  &:hover {
+    background-color: white;
+  }
+
+  select {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white !important;
+    height: 100%;
+    border: none;
+  }
+  button {
+    width: 25px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 39px;
+    width: 37px;
+    border: none;
+    background: #e4e7eb;
+    line-height: 32px;
+    padding: 0;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+.kTable {
+  tr,
+  td,
+  th {
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    padding: 4px 1em;
+  }
+  th {
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  th,
+  td {
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+    border-bottom: none;
+    border-top: none;
+  }
+
+  thead,
+  tbody {
+    border: 1px solid #dee2e6 !important;
+  }
+  thead {
+    background-color: rgba(0 0 0/ 0.03) !important;
+  }
+  tbody > tr:nth-of-type(even) > * {
+    background-color: rgba(0 0 0/ 0.03) !important;
+  }
+}
+.text-right {
+  text-align: right;
+}

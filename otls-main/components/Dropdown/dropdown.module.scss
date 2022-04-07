@@ -1,0 +1,22 @@
+@import "@/styles/otls-variables.scss";
+
+.dropdown_toggle {
+  &::after {
+    border: none;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgb(255,255,255)' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-size: 16px 12px;
+    width: 16px;
+    height: 12px;
+    vertical-align: unset;
+  }
+}
+
+.dropdown_item {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.125rem;
+  color: $otls-base-text;
+}

@@ -1,0 +1,48 @@
+{
+  "family": "otls_task",
+  "taskRoleArn": "arn:aws:iam::575013391725:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::575013391725:role/ecsTaskExecutionRole",
+  "networkMode": "awsvpc",
+  "containerDefinitions": [
+    {
+      "name": "otls_container",
+      "image": "575013391725.dkr.ecr.us-east-1.amazonaws.com/otls:47092dc38c7ce622462ac17db75d0f7cc7e6eecd",
+      "cpu": 0,
+      "portMappings": [
+        {
+          "containerPort": 3000,
+          "hostPort": 3000,
+          "protocol": "tcp"
+        }
+      ],
+      "essential": true,
+      "startTimeout": 10,
+      "stopTimeout": 10,
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/otls_task",
+          "awslogs-region": "us-east-1",
+          "awslogs-stream-prefix": "ecs"
+        }
+      },
+      "healthCheck": {
+        "command": ["CMD-SHELL", "echo hello"],
+        "interval": 10,
+        "timeout": 10,
+        "retries": 2
+      },
+      "environmentFiles": [
+        {
+          "value": "arn:aws:s3:::otls-environment-files/.env",
+          "type": "s3"
+        }
+      ]
+    }
+  ],
+  "placementConstraints": [],
+  "requiresCompatibilities": ["FARGATE"],
+  "volumes": [],
+  "cpu": "256",
+  "memory": "512"
+}

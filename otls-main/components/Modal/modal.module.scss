@@ -1,0 +1,33 @@
+@import "@/styles/otls-variables.scss";
+
+.modal__content {
+  border-radius: 24px;
+}
+
+.modal__header {
+  padding: 2rem 2rem 1rem;
+  border-bottom: none;
+}
+
+.modal__title {
+  font-size: 1.1875rem;
+  font-weight: 700;
+  color: $otls-primary;
+}
+
+.modal__body {
+  padding: 0 2rem 2rem;
+  p {
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    color: $otls-base-text;
+    margin-bottom: 1rem;
+  }
+}
+
+.modal__footer {
+  padding: 0 2rem 2rem;
+  &.modal__foter--no-border {
+    border-top: none;
+  }
+}

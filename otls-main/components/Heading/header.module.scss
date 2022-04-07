@@ -1,0 +1,32 @@
+@import "@credasinc/ctip-ui/components/design-system-variables";
+@import "styles/otls-variables.scss";
+$spacing: clamp(var(--bs-gutter-x, 0.75rem), 4vw, 4.5rem);
+
+.title {
+  font-family: "Karla", sans-serif;
+  font-weight: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 50px;
+  color: $primary;
+  letter-spacing: 3px;
+}
+
+.subTitle {
+  font-family: "Karla", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 37px;
+  color: #495057;
+}
+
+.baseText {
+  font-family: "Karla", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  letter-spacing: 2px;
+  line-height: 20px;
+  color: #6c757d;
+}

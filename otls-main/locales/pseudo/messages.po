@@ -1,0 +1,1698 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-03-18 22:30+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pseudo\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: modules/account/views/SettingView.tsx:26
+msgid " notifications"
+msgstr ""
+
+#: components/Premium/PremiumCreate/AddUsers.tsx:32
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:31
+msgid "0 Users"
+msgstr ""
+
+#: components/organization-modal/index.tsx:356
+msgid "1 Year Enterprise"
+msgstr ""
+
+#: components/Premium/PremiumCreate/AddUsers.tsx:25
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:24
+msgid "1 Year Enterprise "
+msgstr ""
+
+#: components/Premium/PremiumRegister/PremiumCreateSecondStep.tsx:28
+msgid "1 Year Membership"
+msgstr ""
+
+#: pages/404.tsx:8
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:225
+msgid "A $100 member fee will be added to your bill next month."
+msgstr ""
+
+#: pages/upgrade/index.tsx:44
+msgid "Access the tools, courses, and resources to make your community safe."
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:81
+#: pages/sessions/create/index.tsx:106
+msgid "Actions"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:55
+msgid "Active"
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:61
+msgid "Add Files"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:409
+#: pages/admin/organizations/new-org/index.tsx:327
+msgid "Add Member"
+msgstr ""
+
+#: components/organization-modal/index.tsx:168
+msgid "Add Members"
+msgstr ""
+
+#: pages/admin/organizations/index.tsx:103
+msgid "Add Organization"
+msgstr ""
+
+#: pages/admin/permissions/index.tsx:109
+msgid "Add Permission Level"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:80
+#: pages/sessions/index.tsx:16
+#: pages/sessions/index.tsx:34
+msgid "Add Session"
+msgstr ""
+
+#: pages/admin/trainers/index.tsx:21
+msgid "Add Trainer"
+msgstr ""
+
+#: components/Premium/PremiumCreate/AddUsers.tsx:12
+msgid "Add Users"
+msgstr ""
+
+#: components/organization-modal/index.tsx:185
+#: components/Premium/PremiumCreate/AddUsers.tsx:19
+#: pages/sessions/update.tsx:52
+msgid "Add multiple, separate with commas"
+msgstr ""
+
+#: components/TagsInput/index.tsx:91
+msgid "Add tag"
+msgstr ""
+
+#: components/Premium/PremiumCreate/AddUsers.tsx:44
+msgid "Additional users added in the future will be billed the month after they are added."
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:65
+#: components/organization-member-modal/index.tsx:148
+#: components/organization-modal/index.tsx:91
+#: components/organization-modal/index.tsx:309
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:40
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:75
+#: pages/admin/organizations/details/[slug].tsx:347
+#: pages/admin/organizations/new-org/index.tsx:271
+msgid "Address"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:112
+msgid "Admin"
+msgstr ""
+
+#: components/admin-course-list/index.tsx:64
+#: components/admin-course-list/index.tsx:89
+#: components/admin-course-list/index.tsx:114
+#: components/organization-list/index.tsx:56
+#: pages/admin/trainers/index.tsx:116
+msgid "All"
+msgstr ""
+
+#: components/Premium/PremiumRegister/PremiumCreateFirstStep.tsx:49
+msgid "Annually"
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:41
+#: pages/admin/trainers/trainer/session.tsx:84
+#: pages/admin/trainers/trainer/session.tsx:145
+msgid "Approve"
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:106
+#: pages/admin/trainers/trainer/session.tsx:127
+msgid "Approved"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:50
+#: pages/upgrade/index.tsx:69
+#: pages/upgrade/index.tsx:243
+msgid "Ask CTIP"
+msgstr ""
+
+#: pages/admin/trainers/index.tsx:83
+msgid "Ask ctip"
+msgstr ""
+
+#: pages/sessions/update.tsx:140
+msgid "Attended"
+msgstr ""
+
+#: pages/upgrade/index.tsx:271
+#: pages/upgrade/index.tsx:279
+#: pages/upgrade/index.tsx:287
+#: pages/upgrade/index.tsx:295
+msgid "Available at extra cost"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:200
+msgid "Avg Rating"
+msgstr ""
+
+#: components/Premium/PremiumCreate/AddUsers.tsx:52
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:46
+msgid "Back"
+msgstr ""
+
+#: pages/index.tsx:70
+msgid "Begin your training to become a certified VTRA-trainee."
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:141
+msgid "Brooklyn PD"
+msgstr ""
+
+#: pages/sessions/update.tsx:108
+msgid "Bulk Invite (CSV or XLS)"
+msgstr ""
+
+#: components/organization-modal/index.tsx:528
+msgid "CANCEL"
+msgstr ""
+
+#: components/organization-modal/index.tsx:565
+msgid "CLOSE"
+msgstr ""
+
+#: pages/sessions/create/index.tsx:79
+msgid "CST"
+msgstr ""
+
+#: pages/upgrade/index.tsx:179
+msgid "CTIP Articles"
+msgstr ""
+
+#: pages/upgrade/index.tsx:40
+msgid "CTIP Premium"
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:118
+msgid "CTIP Rating"
+msgstr ""
+
+#: pages/upgrade/index.tsx:60
+#: pages/upgrade/index.tsx:195
+msgid "CTIP Talks"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:258
+#: components/permission-modal/index.tsx:62
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:76
+#: pages/sessions/update.tsx:34
+msgid "Cancel"
+msgstr ""
+
+#: components/organization-modal/index.tsx:268
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:57
+msgid "Card"
+msgstr ""
+
+#: pages/index.tsx:24
+msgid "Center for Trauma Informed Practices"
+msgstr ""
+
+#: pages/index.tsx:16
+#~ msgid "Center for Trauma Informed Practices OTLS"
+#~ msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:133
+#: pages/sessions/index.tsx:197
+msgid "Certification Expires"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:52
+msgid "Certification Information"
+msgstr ""
+
+#: pages/sessions/index.tsx:32
+msgid "Check out our FAQ or contact a training director for more information."
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:163
+#: components/organization-modal/index.tsx:105
+#: components/organization-modal/index.tsx:323
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:46
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:81
+#: pages/admin/organizations/details/[slug].tsx:362
+#: pages/admin/organizations/new-org/index.tsx:285
+msgid "City"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:131
+#: pages/admin/organizations/details/[slug].tsx:440
+#: pages/admin/organizations/index.tsx:114
+#: pages/admin/organizations/new-org/index.tsx:359
+#: pages/admin/permissions/index.tsx:125
+msgid "Clear selection"
+msgstr ""
+
+#: pages/sessions/update.tsx:170
+msgid "Click to mark attendance"
+msgstr ""
+
+#: components/Modal/Modal.tsx:67
+msgid "Close"
+msgstr ""
+
+#: pages/upgrade/index.tsx:76
+msgid "Community"
+msgstr ""
+
+#: pages/upgrade/index.tsx:79
+msgid "Community Protocols"
+msgstr ""
+
+#: pages/upgrade/index.tsx:92
+msgid "Compare Options"
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:75
+msgid "Completed On"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:210
+msgid "Completed on"
+msgstr ""
+
+#: components/organization-modal/index.tsx:61
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:22
+#: pages/admin/organizations/details/[slug].tsx:305
+#: pages/admin/organizations/new-org/index.tsx:232
+msgid "Contact Name"
+msgstr ""
+
+#: pages/upgrade/index.tsx:161
+msgid "Contact Us"
+msgstr ""
+
+#: pages/upgrade/index.tsx:331
+msgid "Contact us"
+msgstr ""
+
+#: pages/upgrade/index.tsx:329
+msgid "Contact us for more info"
+msgstr ""
+
+#: pages/admin/permissions/index.tsx:42
+#: pages/admin/permissions/index.tsx:47
+#: pages/admin/permissions/index.tsx:52
+#: pages/admin/permissions/index.tsx:57
+#: pages/admin/permissions/index.tsx:62
+msgid "Control"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:227
+#: pages/admin/trainers/trainer/index.tsx:260
+#: pages/admin/trainers/trainer/index.tsx:293
+#: pages/admin/trainers/trainer/index.tsx:326
+#: pages/sessions/index.tsx:124
+#: pages/sessions/index.tsx:144
+#: pages/sessions/index.tsx:164
+#: pages/sessions/index.tsx:184
+msgid "Copy"
+msgstr ""
+
+#: pages/sessions/update.tsx:92
+msgid "Copy registration link"
+msgstr ""
+
+#: pages/upgrade/index.tsx:302
+msgid "Cost"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:43
+#: pages/admin/courses/index.tsx:80
+msgid "Course Name"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:53
+#: pages/admin/courses/index.tsx:101
+#: pages/admin/trainers/index.tsx:95
+msgid "Courses"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:160
+#: pages/admin/courses/index.tsx:160
+msgid "Coursess"
+msgstr ""
+
+#: pages/sessions/create/index.tsx:29
+msgid "Create Session"
+msgstr ""
+
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:11
+msgid "Create an Organization"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:289
+#: pages/admin/organizations/index.tsx:75
+#: pages/admin/organizations/new-org/index.tsx:218
+msgid "Created by"
+msgstr ""
+
+#: pages/upgrade/index.tsx:70
+#: pages/upgrade/index.tsx:227
+msgid "Critical Periods"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:48
+msgid "Custodial Privacy Protection"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:242
+msgid "DELETE"
+msgstr ""
+
+#: pages/upgrade/index.tsx:291
+msgid "Data Integration"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:40
+#: pages/admin/organizations/new-org/index.tsx:90
+msgid "Data integrations"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:87
+#: pages/admin/trainers/trainer/index.tsx:178
+#: pages/admin/trainers/trainer/index.tsx:190
+#: pages/sessions/index.tsx:85
+#: pages/sessions/index.tsx:103
+msgid "Date"
+msgstr ""
+
+#: components/admin-course-list/index.tsx:56
+#: pages/admin/courses/index.tsx:47
+#: pages/admin/organizations/index.tsx:37
+msgid "Date added"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:40
+msgid "Deactivate"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:62
+msgid "Description"
+msgstr ""
+
+#: components/organization-modal/index.tsx:20
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:81
+#: pages/admin/organizations/details/[slug].tsx:36
+#: pages/admin/organizations/details/[slug].tsx:241
+#: pages/admin/organizations/new-org/index.tsx:86
+#: pages/admin/organizations/new-org/index.tsx:172
+msgid "Details"
+msgstr ""
+
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:50
+#: components/Premium/PremiumRegister/PremiumCreateSecondStep.tsx:49
+msgid "Done"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:210
+msgid "Due On"
+msgstr ""
+
+#: components/organization-modal/index.tsx:554
+msgid "EMAIL ORGANIZATION"
+msgstr ""
+
+#: components/organization-modal/index.tsx:172
+msgid "Each member will add $100/yr to the membership cost. Members can also be added at a later time."
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:43
+#: pages/sessions/update.tsx:72
+msgid "Edit"
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:38
+msgid "Edit Session"
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:32
+#: components/organization-member-modal/index.tsx:120
+#: components/organization-modal/index.tsx:71
+#: components/Premium/PremiumCreate/AddUsers.tsx:15
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:28
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:54
+#: pages/account/profile.tsx:18
+#: pages/admin/organizations/details/[slug].tsx:77
+#: pages/admin/organizations/details/[slug].tsx:319
+#: pages/admin/organizations/new-org/index.tsx:55
+#: pages/admin/organizations/new-org/index.tsx:245
+#: pages/admin/trainers/index.tsx:126
+#: pages/sessions/update.tsx:133
+msgid "Email"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:56
+msgid "Email Address"
+msgstr ""
+
+#: pages/admin/organizations/new-org/index.tsx:163
+msgid "Email Contact"
+msgstr ""
+
+#: modules/account/views/SettingView.tsx:75
+msgid "Email Preferences"
+msgstr ""
+
+#: pages/sessions/update.tsx:53
+msgid "Enter emails"
+msgstr ""
+
+#: components/organization-modal/index.tsx:361
+#: components/Premium/PremiumCreate/AddUsers.tsx:29
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:28
+msgid "Enterprise Fee"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:49
+#: pages/admin/trainers/index.tsx:79
+msgid "Events"
+msgstr ""
+
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:63
+msgid "Exp. Date"
+msgstr ""
+
+#: components/organization-modal/index.tsx:289
+msgid "Expire Date"
+msgstr ""
+
+#: pages/upgrade/index.tsx:84
+msgid "Extra cost"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:214
+msgid "Fee"
+msgstr ""
+
+#: pages/upgrade/index.tsx:213
+#: pages/upgrade/index.tsx:214
+#: pages/upgrade/index.tsx:215
+msgid "Free Course"
+msgstr ""
+
+#: pages/upgrade/index.tsx:196
+msgid "Free Talks"
+msgstr ""
+
+#: pages/upgrade/index.tsx:204
+msgid "Free Videos"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:32
+msgid "Full Name"
+msgstr ""
+
+#: pages/upgrade/index.tsx:275
+msgid "Genogram Maker"
+msgstr ""
+
+#: modules/account/views/SettingView.tsx:29
+#: modules/account/views/SettingView.tsx:39
+#: modules/account/views/SettingView.tsx:49
+msgid "Get notified when there are changes to your courses."
+msgstr ""
+
+#: pages/upgrade/index.tsx:322
+msgid "Get premium"
+msgstr ""
+
+#: pages/index.tsx:53
+msgid "Get started"
+msgstr ""
+
+#: modules/account/views/SettingView.tsx:19
+msgid "Get updates on news, events, and insights."
+msgstr ""
+
+#: pages/sessions/index.tsx:29
+msgid "Have questions?"
+msgstr ""
+
+#: pages/upgrade/index.tsx:222
+#: pages/upgrade/index.tsx:223
+msgid "Hours"
+msgstr ""
+
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:20
+msgid "How will you be paying?"
+msgstr ""
+
+#: components/organization-modal/index.tsx:143
+msgid "If you know what plan this organization has, you can select it here. You can also let the organization set this up at a later time."
+msgstr ""
+
+#: pages/sessions/index.tsx:98
+#: pages/sessions/index.tsx:129
+#: pages/sessions/index.tsx:149
+#: pages/sessions/index.tsx:169
+#: pages/sessions/index.tsx:189
+#: pages/sessions/update.tsx:26
+#: pages/sessions/update.tsx:41
+#: pages/sessions/update.tsx:95
+#: pages/sessions/update.tsx:100
+msgid "Invite"
+msgstr ""
+
+#: pages/sessions/index.tsx:87
+msgid "Invited"
+msgstr ""
+
+#: pages/sessions/update.tsx:87
+msgid "Invited & Registered"
+msgstr ""
+
+#: pages/sessions/update.tsx:48
+msgid "Invitees will get a link to register for the session."
+msgstr ""
+
+#: components/organization-modal/index.tsx:355
+#: components/Premium/PaymentInvoice/PaymentInvoice.tsx:40
+msgid "Item"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:123
+msgid "Last Recertification"
+msgstr ""
+
+#: pages/upgrade/index.tsx:55
+msgid "Learning"
+msgstr ""
+
+#: components/organization-modal/index.tsx:420
+msgid "Let the organization know that they're all set."
+msgstr ""
+
+#: pages/upgrade/index.tsx:80
+msgid "Live Training Sessions"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:150
+#: pages/admin/organizations/details/[slug].tsx:275
+#: pages/admin/organizations/index.tsx:62
+#: pages/admin/organizations/new-org/index.tsx:205
+msgid "Location"
+msgstr ""
+
+#: pages/admin/organizations/index.tsx:58
+msgid "Main Contact"
+msgstr ""
+
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:111
+msgid "Make your check payable to CTIP and mail to 3049 - 34th St. N Lethbridge, AB T1H 7C4. Your membership benefits will be available once your check clears. Thank you."
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:173
+#: pages/admin/trainers/trainer/index.tsx:185
+#: pages/admin/trainers/trainer/index.tsx:197
+#: pages/admin/trainers/trainer/session.tsx:56
+#: pages/sessions/create/index.tsx:48
+#: pages/sessions/update.tsx:121
+msgid "Materials"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:232
+msgid "Max Attendees"
+msgstr ""
+
+#: pages/upgrade/index.tsx:122
+msgid "Member"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:184
+#: pages/admin/organizations/details/[slug].tsx:402
+#: pages/admin/organizations/index.tsx:66
+#: pages/admin/organizations/new-org/index.tsx:322
+msgid "Members"
+msgstr ""
+
+#: pages/upgrade/index.tsx:203
+msgid "Microlearning"
+msgstr ""
+
+#: pages/upgrade/index.tsx:219
+msgid "Microlearning CE"
+msgstr ""
+
+#: pages/upgrade/index.tsx:58
+msgid "Microlearning Courses"
+msgstr ""
+
+#: components/Premium/PremiumRegister/PremiumCreateFirstStep.tsx:42
+msgid "Monthly"
+msgstr ""
+
+#: pages/sessions/index.tsx:24
+msgid "My Summary"
+msgstr ""
+
+#: components/organization-modal/index.tsx:569
+msgid "NEXT"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:153
+#: pages/sessions/create/index.tsx:91
+msgid "NY"
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:24
+#: components/organization-member-modal/index.tsx:66
+#: components/organization-modal/index.tsx:38
+#: components/organization-modal/index.tsx:257
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:45
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:30
+#: pages/account/profile.tsx:15
+#: pages/admin/organizations/details/[slug].tsx:69
+#: pages/admin/organizations/details/[slug].tsx:246
+#: pages/admin/organizations/new-org/index.tsx:47
+#: pages/admin/organizations/new-org/index.tsx:177
+#: pages/admin/trainers/index.tsx:110
+#: pages/admin/trainers/index.tsx:124
+#: pages/admin/trainers/trainer/index.tsx:161
+#: pages/admin/trainers/trainer/index.tsx:177
+#: pages/admin/trainers/trainer/index.tsx:189
+#: pages/admin/trainers/trainer/session.tsx:74
+#: pages/sessions/create/index.tsx:99
+#: pages/sessions/index.tsx:69
+#: pages/sessions/index.tsx:84
+#: pages/sessions/index.tsx:102
+#: pages/sessions/update.tsx:132
+msgid "Name"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:107
+msgid "New Course"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:40
+msgid "New Member"
+msgstr ""
+
+#: components/permission-modal/index.tsx:30
+msgid "New Member Role"
+msgstr ""
+
+#: pages/admin/organizations/new-org/index.tsx:131
+msgid "New Organization"
+msgstr ""
+
+#: components/organization-modal/index.tsx:484
+msgid "New organization"
+msgstr ""
+
+#: pages/upgrade/index.tsx:171
+msgid "News Alerts"
+msgstr ""
+
+#: components/Premium/PremiumCreate/AddUsers.tsx:58
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:82
+#: components/Premium/PremiumRegister/PremiumCreateFirstStep.tsx:31
+msgid "Next"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:197
+msgid "Next Payment"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:201
+msgid "No"
+msgstr ""
+
+#: pages/admin/organizations/new-org/index.tsx:370
+msgid "No members have been added yet."
+msgstr ""
+
+#: pages/sessions/create/index.tsx:85
+msgid "None"
+msgstr ""
+
+#: pages/account/profile.tsx:26
+#: pages/account/settings.tsx:19
+msgid "Not signed in."
+msgstr ""
+
+#: pages/account/settings.tsx:13
+msgid "Nothing to see here yet!"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:179
+msgid "One Year Subscription"
+msgstr ""
+
+#: pages/upgrade/index.tsx:211
+msgid "Online Courses"
+msgstr ""
+
+#: pages/upgrade/index.tsx:59
+msgid "Online Learning"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:107
+#: pages/admin/organizations/details/[slug].tsx:85
+#: pages/admin/organizations/new-org/index.tsx:63
+msgid "Org Access"
+msgstr ""
+
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:16
+msgid "Org Name"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:286
+#: modules/account/views/AccountView.tsx:289
+msgid "Org ZIP/Postal code"
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:40
+#: components/organization-member-modal/index.tsx:80
+#: pages/admin/organizations/index.tsx:50
+#: pages/admin/trainers/index.tsx:53
+#: pages/admin/trainers/index.tsx:130
+msgid "Organization"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:47
+#: pages/admin/organizations/details/[slug].tsx:150
+#: pages/admin/organizations/index.tsx:96
+#: pages/admin/organizations/index.tsx:139
+#: pages/admin/organizations/index.tsx:139
+#: pages/admin/organizations/new-org/index.tsx:124
+#: pages/admin/trainers/index.tsx:71
+msgid "Organizations"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:479
+#: pages/admin/organizations/details/[slug].tsx:479
+#: pages/admin/organizations/new-org/index.tsx:388
+#: pages/admin/organizations/new-org/index.tsx:388
+msgid "Organizations Details"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:37
+msgid "Organizer"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:113
+#: pages/sessions/index.tsx:209
+msgid "Original Certification"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:86
+#: components/organization-member-modal/index.tsx:113
+#: components/organization-modal/index.tsx:54
+#: pages/admin/organizations/details/[slug].tsx:268
+#: pages/admin/organizations/new-org/index.tsx:198
+msgid "Other"
+msgstr ""
+
+#: pages/upgrade/index.tsx:267
+msgid "Outreach Collaborator"
+msgstr ""
+
+#: pages/upgrade/index.tsx:82
+#: pages/upgrade/index.tsx:259
+msgid "Outreach Portal"
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:75
+#: pages/sessions/create/index.tsx:100
+msgid "Pages"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:52
+#: pages/admin/trainers/index.tsx:91
+msgid "Partners"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:101
+#: pages/sessions/index.tsx:59
+msgid "Past"
+msgstr ""
+
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:49
+#: components/Premium/PremiumRegister/PremiumCreateSecondStep.tsx:48
+msgid "Pay"
+msgstr ""
+
+#: components/organization-modal/index.tsx:241
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:14
+#: components/Premium/PremiumRegister/PremiumCreateSecondStep.tsx:18
+msgid "Payment"
+msgstr ""
+
+#: components/organization-modal/index.tsx:411
+msgid "Payment Complete"
+msgstr ""
+
+#: components/organization-modal/index.tsx:250
+msgid "Payment method"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:87
+#: pages/sessions/index.tsx:45
+msgid "Pending Approval"
+msgstr ""
+
+#: pages/sessions/index.tsx:217
+msgid "People trained all time"
+msgstr ""
+
+#: pages/sessions/index.tsx:213
+msgid "People trained this year"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:48
+#: pages/admin/permissions/index.tsx:103
+#: pages/admin/permissions/index.tsx:148
+#: pages/admin/permissions/index.tsx:148
+#: pages/admin/trainers/index.tsx:75
+msgid "Permissions"
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:49
+#: components/organization-member-modal/index.tsx:134
+#: components/organization-modal/index.tsx:81
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:34
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:51
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:70
+#: pages/admin/organizations/details/[slug].tsx:81
+#: pages/admin/organizations/details/[slug].tsx:333
+#: pages/admin/organizations/new-org/index.tsx:59
+#: pages/admin/organizations/new-org/index.tsx:258
+#: pages/admin/trainers/index.tsx:127
+#: pages/sessions/update.tsx:134
+msgid "Phone"
+msgstr ""
+
+#: components/organization-modal/index.tsx:139
+#: components/organization-modal/index.tsx:150
+msgid "Plan Type"
+msgstr ""
+
+#: pages/auth/logout.tsx:27
+#: pages/auth/signout.tsx:20
+msgid "Please wait while we sign you out!"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:266
+#: pages/admin/organizations/new-org/index.tsx:196
+msgid "Police Department"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:132
+#: pages/admin/organizations/details/[slug].tsx:441
+#: pages/admin/organizations/index.tsx:115
+#: pages/admin/organizations/new-org/index.tsx:360
+#: pages/admin/permissions/index.tsx:126
+msgid "Popular tags"
+msgstr ""
+
+#: pages/upgrade/index.tsx:146
+msgid "Premium"
+msgstr ""
+
+#: pages/upgrade/index.tsx:61
+msgid "Premium Articles & Guides"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:208
+msgid "Pricing & Session"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:55
+#: pages/admin/trainers/index.tsx:103
+msgid "Protocols"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:224
+msgid "RSVP by"
+msgstr ""
+
+#: pages/sessions/create/index.tsx:67
+msgid "Raymond Holt"
+msgstr ""
+
+#: pages/index.tsx:81
+msgid "Read our latest posts."
+msgstr ""
+
+#: pages/admin/trainers/index.tsx:46
+#: pages/admin/trainers/index.tsx:125
+#: pages/admin/trainers/trainer/index.tsx:172
+#: pages/admin/trainers/trainer/index.tsx:179
+#: pages/admin/trainers/trainer/index.tsx:191
+#: pages/sessions/index.tsx:80
+#: pages/sessions/index.tsx:86
+#: pages/sessions/index.tsx:104
+msgid "Region"
+msgstr ""
+
+#: pages/sessions/update.tsx:137
+msgid "Registered"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:240
+#: pages/sessions/index.tsx:95
+msgid "Registration Link"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:182
+#: pages/admin/trainers/trainer/index.tsx:194
+#: pages/sessions/index.tsx:90
+#: pages/sessions/index.tsx:107
+msgid "Registrations"
+msgstr ""
+
+#: pages/admin/organizations/index.tsx:71
+msgid "Renewal Date"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:140
+msgid "Repeat"
+msgstr ""
+
+#: pages/upgrade/index.tsx:72
+msgid "Reports"
+msgstr ""
+
+#: pages/admin/trainers/index.tsx:99
+#: pages/upgrade/index.tsx:187
+msgid "Resources"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:54
+msgid "Resourses"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:93
+#: pages/admin/organizations/details/[slug].tsx:73
+#: pages/admin/organizations/new-org/index.tsx:51
+#: pages/admin/permissions/index.tsx:38
+msgid "Role"
+msgstr ""
+
+#: components/permission-modal/index.tsx:38
+msgid "Role Name"
+msgstr ""
+
+#: components/organization-modal/index.tsx:541
+msgid "SKIP THIS STEP"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:44
+#: pages/admin/organizations/new-org/index.tsx:94
+msgid "SSO"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:235
+msgid "Same as Shipping Address"
+msgstr ""
+
+#: components/permission-modal/index.tsx:64
+msgid "Save"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:261
+msgid "Save & Invite"
+msgstr ""
+
+#: components/admin-course-list/index.tsx:90
+#: components/organization-list/index.tsx:57
+#: components/organization-modal/index.tsx:53
+msgid "School"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:130
+msgid "Search courses"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:439
+#: pages/admin/organizations/new-org/index.tsx:358
+msgid "Search members"
+msgstr ""
+
+#: pages/admin/organizations/index.tsx:113
+msgid "Search organizations"
+msgstr ""
+
+#: pages/admin/permissions/index.tsx:124
+msgid "Search permissions"
+msgstr ""
+
+#: pages/admin/trainers/index.tsx:28
+msgid "Search trainers"
+msgstr ""
+
+#: components/organization-modal/index.tsx:297
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:69
+msgid "Security Code"
+msgstr ""
+
+#: components/organization-modal/index.tsx:155
+msgid "Select Type"
+msgstr ""
+
+#: components/Premium/PremiumRegister/PremiumCreateFirstStep.tsx:21
+msgid "Select a payment option."
+msgstr ""
+
+#: pages/sessions/create/index.tsx:60
+msgid "Select option..."
+msgstr ""
+
+#: pages/upgrade/index.tsx:81
+msgid "Seminars"
+msgstr ""
+
+#: pages/sessions/update.tsx:158
+#: pages/sessions/update.tsx:175
+#: pages/sessions/update.tsx:188
+#: pages/sessions/update.tsx:201
+msgid "Send"
+msgstr ""
+
+#: pages/sessions/update.tsx:143
+msgid "Send Invite"
+msgstr ""
+
+#: components/admin-course-list/index.tsx:115
+#: pages/admin/trainers/trainer/index.tsx:77
+msgid "Session"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:164
+#: pages/sessions/index.tsx:72
+msgid "Session Date"
+msgstr ""
+
+#: pages/sessions/create/index.tsx:25
+#: pages/sessions/index.tsx:14
+#: pages/sessions/update.tsx:64
+msgid "Sessions"
+msgstr ""
+
+#: pages/admin/trainers/index.tsx:135
+msgid "Sessions Held"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:74
+msgid "Sessions Organizer"
+msgstr ""
+
+#: pages/sessions/index.tsx:205
+msgid "Sessions held all time"
+msgstr ""
+
+#: pages/sessions/index.tsx:201
+msgid "Sessions held this year"
+msgstr ""
+
+#: pages/upgrade/index.tsx:283
+msgid "Single Sign-On"
+msgstr ""
+
+#: components/admin-course-list/index.tsx:28
+#: components/organization-list/index.tsx:20
+#: pages/admin/trainers/index.tsx:36
+msgid "Sort by"
+msgstr ""
+
+#: pages/index.tsx:58
+msgid "Start your learning with our microlearning or online courses."
+msgstr ""
+
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:51
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:86
+msgid "State"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:122
+#: modules/account/views/AccountView.tsx:152
+#: modules/account/views/AccountView.tsx:269
+msgid "State/Region"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:155
+#: components/organization-modal/index.tsx:98
+#: components/organization-modal/index.tsx:316
+#: pages/admin/organizations/details/[slug].tsx:354
+#: pages/admin/organizations/new-org/index.tsx:278
+msgid "Street"
+msgstr ""
+
+#: pages/upgrade/index.tsx:118
+#: pages/upgrade/index.tsx:129
+#~ msgid "Subcriber"
+#~ msgstr ""
+
+#: pages/sessions/create/index.tsx:33
+msgid "Submit For Approval"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:169
+#: pages/sessions/index.tsx:77
+msgid "Submitted On"
+msgstr ""
+
+#: pages/upgrade/index.tsx:311
+msgid "Subscribe"
+msgstr ""
+
+#: components/Premium/PremiumRegister/PremiumCreateFirstStep.tsx:19
+#: components/Premium/PremiumRegister/PremiumCreateSecondStep.tsx:16
+#: pages/upgrade/index.tsx:132
+msgid "Subscriber"
+msgstr ""
+
+#: pages/admin/organizations/new-org/index.tsx:151
+msgid "Subscription Details"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:224
+msgid "Subscription Ends On"
+msgstr ""
+
+#: components/Premium/PaymentInvoice/PaymentInvoice.tsx:47
+msgid "Subtotal"
+msgstr ""
+
+#: pages/index.tsx:212
+msgid "Suggested courses"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:205
+msgid "Survey Link"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:210
+msgid "Survey Results"
+msgstr ""
+
+#: components/admin-course-list/index.tsx:106
+#: pages/admin/courses/index.tsx:55
+msgid "Tags"
+msgstr ""
+
+#: components/organization-modal/index.tsx:369
+#: components/Premium/PremiumCreate/AddUsers.tsx:36
+#: components/Premium/PremiumCreate/CreateAndPay.tsx:35
+#: components/Premium/PremiumRegister/PremiumCreateSecondStep.tsx:34
+msgid "Tax"
+msgstr ""
+
+#: pages/upgrade/index.tsx:160
+msgid "Team"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:98
+msgid "Time"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:132
+msgid "Time Zone"
+msgstr ""
+
+#: pages/upgrade/index.tsx:235
+msgid "Tips & Referrals"
+msgstr ""
+
+#: pages/upgrade/index.tsx:65
+msgid "Tools"
+msgstr ""
+
+#: components/organization-modal/index.tsx:375
+#: components/Premium/PaymentInvoice/PaymentInvoice.tsx:58
+msgid "Total"
+msgstr ""
+
+#: components/admin-navbar/index.tsx:51
+#: pages/admin/trainers/index.tsx:19
+#: pages/admin/trainers/index.tsx:87
+#: pages/admin/trainers/trainer/index.tsx:32
+#: pages/admin/trainers/trainer/session.tsx:29
+msgid "Trainers"
+msgstr ""
+
+#: pages/admin/trainers/index.tsx:140
+msgid "Training Complete"
+msgstr ""
+
+#: components/Admin/Trainers/TrainerInfoForm/TrainerInfoForm.tsx:56
+msgid "Training Level"
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:33
+msgid "Training Seminar"
+msgstr ""
+
+#: pages/upgrade/index.tsx:71
+#: pages/upgrade/index.tsx:251
+msgid "Trends"
+msgstr ""
+
+#: components/admin-course-list/index.tsx:81
+#: components/organization-list/index.tsx:48
+#: components/organization-modal/index.tsx:48
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:45
+#: pages/admin/courses/index.tsx:51
+#: pages/admin/organizations/details/[slug].tsx:260
+#: pages/admin/organizations/index.tsx:54
+#: pages/admin/organizations/new-org/index.tsx:190
+msgid "Type"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:59
+#: components/organization-modal/index.tsx:31
+msgid "UPLOAD PHOTO"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:94
+#: pages/sessions/index.tsx:52
+msgid "Upcoming"
+msgstr ""
+
+#: pages/index.tsx:116
+msgid "Upcoming sessions"
+msgstr ""
+
+#: pages/admin/organizations/details/[slug].tsx:160
+msgid "Update Subscription"
+msgstr ""
+
+#: pages/index.tsx:36
+msgid "Upgrade now"
+msgstr ""
+
+#: pages/index.tsx:31
+msgid "Upgrade to premium to access more tools courses and resources to make your community safe."
+msgstr ""
+
+#: pages/admin/trainers/trainer/session.tsx:78
+#: pages/sessions/create/index.tsx:103
+msgid "Uploaded On"
+msgstr ""
+
+#: pages/admin/courses/index.tsx:69
+msgid "User completed"
+msgstr ""
+
+#: components/organization-modal/index.tsx:365
+msgid "Users"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:147
+msgid "VTRA Level 3"
+msgstr ""
+
+#: pages/sessions/update.tsx:68
+msgid "VTRA Level One - Day One"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:195
+#: pages/admin/organizations/details/[slug].tsx:89
+#: pages/admin/organizations/new-org/index.tsx:67
+msgid "VTRA Trained"
+msgstr ""
+
+#: pages/sessions/create/index.tsx:73
+msgid "VTRA Training"
+msgstr ""
+
+#: components/Sessions/CreateSessionForm/CreateSessionForm.tsx:194
+msgid "Video Link"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:240
+#: pages/admin/trainers/trainer/index.tsx:245
+#: pages/admin/trainers/trainer/index.tsx:273
+#: pages/admin/trainers/trainer/index.tsx:278
+#: pages/admin/trainers/trainer/index.tsx:306
+#: pages/admin/trainers/trainer/index.tsx:311
+#: pages/admin/trainers/trainer/index.tsx:339
+#: pages/admin/trainers/trainer/index.tsx:344
+msgid "View"
+msgstr ""
+
+#: pages/admin/trainers/trainer/index.tsx:118
+#: pages/admin/trainers/trainer/index.tsx:128
+msgid "View certification results"
+msgstr ""
+
+#: pages/index.tsx:45
+msgid "Welcome back"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:200
+msgid "Yes"
+msgstr ""
+
+#: components/organization-modal/index.tsx:245
+msgid "You can enter the payment for the organization, or they can do this at a later time. Their membership will not begin until payment is collected."
+msgstr ""
+
+#: pages/index.tsx:95
+msgid "Your courses"
+msgstr ""
+
+#: components/organization-member-modal/index.tsx:185
+#: components/organization-modal/index.tsx:125
+#: components/organization-modal/index.tsx:343
+#: modules/account/components/subscription/ShippingBilling.tsx:134
+#: modules/account/components/subscription/ShippingBilling.tsx:212
+#: modules/account/views/AccountView.tsx:169
+#: modules/account/views/AccountView.tsx:172
+#: pages/admin/organizations/details/[slug].tsx:384
+#: pages/admin/organizations/new-org/index.tsx:305
+msgid "ZIP/Postal code"
+msgstr ""
+
+#: components/Premium/PremiumCreate/CreateOrganization.tsx:66
+#: components/Premium/PremiumCreatePayment/PremiumCreatePayment.tsx:101
+msgid "Zip Code"
+msgstr ""
+
+#: pages/account/index.tsx:21
+msgid "account"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:98
+#: modules/account/components/subscription/ShippingBilling.tsx:224
+#: modules/account/views/AccountView.tsx:118
+#: modules/account/views/AccountView.tsx:235
+msgid "address"
+msgstr ""
+
+#: components/Premium/PremiumRegister/PremiumCreateSecondStep.tsx:45
+msgid "back"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:155
+msgid "billing"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionPerYear.tsx:81
+msgid "cancel"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:173
+msgid "card"
+msgstr ""
+
+#: modules/account/views/CourseView.tsx:56
+msgid "certificate"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:351
+msgid "change password"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:110
+#: modules/account/views/AccountView.tsx:135
+#: modules/account/views/AccountView.tsx:138
+#: modules/account/views/AccountView.tsx:252
+msgid "city"
+msgstr ""
+
+#: components/Profile/CourseCard/CourseCard.tsx:33
+#: modules/account/components/course/CourseCardList.tsx:52
+msgid "complete"
+msgstr ""
+
+#: modules/account/views/CourseView.tsx:31
+msgid "completed"
+msgstr ""
+
+#: pages/index.tsx:108
+msgid "continue"
+msgstr ""
+
+#: modules/account/views/CourseView.tsx:43
+msgid "course/sessions"
+msgstr ""
+
+#: pages/account/index.tsx:26
+msgid "courses"
+msgstr ""
+
+#: modules/account/views/Subscription.tsx:51
+msgid "date"
+msgstr ""
+
+#: modules/account/views/CourseView.tsx:38
+msgid "date completed"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionPerYear.tsx:42
+msgid "due on"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:320
+msgid "email"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:186
+msgid "exp date"
+msgstr ""
+
+#: pages/index.tsx:75
+msgid "find a session"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionFree.tsx:29
+msgid "free membership"
+msgstr ""
+
+#: modules/account/components/course/CourseCardList.tsx:21
+msgid "in progress"
+msgstr ""
+
+#: modules/account/views/Subscription.tsx:68
+msgid "invoice"
+msgstr ""
+
+#: modules/account/views/Subscription.tsx:57
+msgid "item"
+msgstr ""
+
+#: components/Premium/PremiumRegister/PremiumCreateFirstStep.tsx:44
+#: components/Premium/PremiumRegister/PremiumCreateFirstStep.tsx:51
+msgid "mo"
+msgstr ""
+
+#: pages/upgrade/index.tsx:137
+#: pages/upgrade/index.tsx:151
+#: pages/upgrade/index.tsx:310
+#: pages/upgrade/index.tsx:320
+msgid "month"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:73
+msgid "my info"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:74
+#: modules/account/components/subscription/ShippingBilling.tsx:161
+#: modules/account/views/AccountView.tsx:84
+#: modules/account/views/AccountView.tsx:201
+msgid "name"
+msgstr ""
+
+#: modules/account/views/SettingView.tsx:17
+msgid "newsletter"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionPerYear.tsx:37
+msgid "next payment"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionPerYear.tsx:30
+msgid "one year subscription"
+msgstr ""
+
+#: pages/upgrade/index.tsx:134
+#: pages/upgrade/index.tsx:148
+#: pages/upgrade/index.tsx:307
+#: pages/upgrade/index.tsx:317
+msgid "or"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:238
+msgid "org address"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:255
+msgid "org city"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:204
+msgid "org name"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:221
+msgid "org phone"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:272
+msgid "org state"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:190
+msgid "organization info"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:333
+msgid "password"
+msgstr ""
+
+#: pages/account/index.tsx:31
+msgid "payment info"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:86
+#: modules/account/views/AccountView.tsx:101
+#: modules/account/views/AccountView.tsx:218
+msgid "phone"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:104
+msgid "phone number"
+msgstr ""
+
+#: modules/account/views/CourseView.tsx:51
+#: modules/account/views/Subscription.tsx:62
+msgid "price"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:314
+msgid "privacy & security"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:49
+msgid "profile"
+msgstr ""
+
+#: modules/account/views/SettingView.tsx:36
+msgid "promotions"
+msgstr ""
+
+#: pages/index.tsx:254
+msgid "recent CTIp Articles"
+msgstr ""
+
+#: pages/index.tsx:199
+msgid "register now"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:199
+msgid "security code"
+msgstr ""
+
+#: pages/index.tsx:128
+msgid "see overview"
+msgstr ""
+
+#: pages/account/index.tsx:36
+msgid "settings"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:43
+msgid "shipping & billing"
+msgstr ""
+
+#: modules/account/components/subscription/ShippingBilling.tsx:68
+msgid "shipping address"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:155
+msgid "state/region"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionFree.tsx:17
+#: modules/account/components/subscription/SubscriptionPerYear.tsx:17
+msgid "subscription"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionPerYear.tsx:47
+msgid "subscription ends on"
+msgstr ""
+
+#: pages/index.tsx:233
+msgid "training near you"
+msgstr ""
+
+#: modules/account/views/Subscription.tsx:44
+msgid "transaction history"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:358
+msgid "two-factor authentication"
+msgstr ""
+
+#: modules/account/views/CourseView.tsx:47
+msgid "type"
+msgstr ""
+
+#: modules/account/views/SettingView.tsx:46
+msgid "updates"
+msgstr ""
+
+#: modules/account/components/subscription/SubscriptionFree.tsx:37
+msgid "upgrade now"
+msgstr ""
+
+#: modules/account/views/CourseView.tsx:61
+#: modules/account/views/Subscription.tsx:74
+msgid "view"
+msgstr ""
+
+#: pages/index.tsx:85
+msgid "view articles"
+msgstr ""
+
+#: pages/index.tsx:203
+msgid "view calendar"
+msgstr ""
+
+#: pages/index.tsx:63
+msgid "view courses"
+msgstr ""
+
+#: pages/upgrade/index.tsx:133
+#: pages/upgrade/index.tsx:147
+#: pages/upgrade/index.tsx:306
+#: pages/upgrade/index.tsx:316
+msgid "year"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:121
+msgid "your address"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:323
+msgid "your email"
+msgstr ""
+
+#: modules/account/views/AccountView.tsx:87
+msgid "your name"
+msgstr ""

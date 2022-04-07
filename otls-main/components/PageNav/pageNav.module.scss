@@ -1,0 +1,39 @@
+@import "../../styles/otls-variables.scss";
+
+.page_nav {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #c4c4c4;
+  overflow-y: auto;
+}
+
+.page_nav__nav_item {
+  &:not(:last-child) {
+    margin-right: 0.75rem;
+  }
+}
+
+.page_nav__nav_link {
+  display: block;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.54;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 0.6875rem 0.8125rem;
+  border-bottom: 4px solid transparent;
+  transition: 0.2s border-color;
+  white-space: nowrap;
+  &,
+  &:hover {
+    text-decoration: none;
+    color: $otls-base-text;
+  }
+  &:hover,
+  &.page_nav__nav_link--active {
+    border-color: $otls-base-text;
+  }
+}

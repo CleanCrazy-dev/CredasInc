@@ -1,0 +1,43 @@
+@import "otls-variables.scss";
+
+.form-control,
+input[type="checkbox"] {
+  &:hover,
+  :focus {
+    outline: "none" !important;
+  }
+  &[disabled] {
+    background-color: transparent !important;
+  }
+  &::placeholder {
+    color: "#495057" !important;
+    font-family: Karla, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+input[type="checkbox"] {
+  height: 25px;
+  width: 24px;
+  outline: none;
+  &:hover,
+  &:active {
+    outline: none;
+  }
+  &:checked {
+    border: $primary;
+    background-color: $primary;
+  }
+}
+
+.btn-primary {
+  background-color: $primary !important;
+  border-color: $primary !important;
+}
+.btn-outline-primary {
+  border-color: $primary !important;
+  color: $primary !important;
+}

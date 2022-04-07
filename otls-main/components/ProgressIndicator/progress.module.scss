@@ -1,0 +1,8 @@
+@import "styles/otls-variables.scss";
+
+.progress {
+  height: 4px;
+  .progressBar {
+    background-color: $primary;
+  }
+}

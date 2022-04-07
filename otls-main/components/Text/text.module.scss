@@ -1,0 +1,62 @@
+@import "styles/otls-variables.scss";
+
+.label {
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+  font-size: 15px;
+  line-height: 24px;
+  color: #9199a0;
+  letter-spacing: 0.5px;
+  font-family: "Karla", sans-serif;
+}
+
+.subTitle {
+  color: $base-text;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: none;
+  font-family: "Karla", sans-serif;
+}
+
+.title {
+  font-family: "Karla", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 25px;
+  letter-spacing: 1px;
+  color: $base-text;
+}
+
+.paragraph {
+  font-family: "Karla", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: $base-text;
+}
+
+.baseText {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 100%;
+  color: #6c757d;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-family: "Karla", sans-serif;
+}
+
+.body {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: $base-text;
+  font-family: "Karla", sans-serif;
+}

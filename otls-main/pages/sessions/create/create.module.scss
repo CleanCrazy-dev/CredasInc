@@ -1,0 +1,31 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "@/styles/otls-variables.scss";
+
+.create_form_section {
+  padding: 1rem 0;
+  border-bottom: 1px solid $gray-400;
+  &:first-child {
+    padding-top: 2rem;
+  }
+  &:last-child {
+    padding-bottom: 2rem;
+  }
+}
+
+.create_table_section {
+  padding: 2rem 0;
+  &:not(:last-child) {
+    border-bottom: 1px solid $gray-400;
+  }
+  &:last-child {
+    padding-bottom: 0;
+  }
+}
+
+.create_form_section__title {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,24 @@
+.icon {
+  transform: scale(1.3);
+}
+.tags-input {
+  height: 32px !important;
+  border: none !important;
+  background-color: transparent !important;
+}
+.subtitle {
+  font-size: 28px;
+}
+.level-0 {
+  font-weight: bold;
+}
+@for $i from 1 to 5 {
+  .level-#{$i} {
+    padding-left: 16px * $i;
+  }
+}
+
+.link-to-details {
+  color: #495057;
+  text-decoration: none;
+}

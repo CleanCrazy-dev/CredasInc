@@ -1,0 +1,86 @@
+@import "../../styles/utils.scss";
+
+.modal-header,
+.modal-footer,
+.modal-body {
+  border: none;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.modal-header {
+  align-items: flex-start;
+}
+.modal-title {
+  font-size: 19px;
+}
+.full-width {
+  width: 100%;
+}
+.progress-bar {
+  height: 10px;
+  width: 60%;
+  margin: auto;
+}
+.modal-container {
+  width: 625px;
+  max-width: 95vw;
+
+  .modal-content {
+    border-radius: 16px;
+  }
+}
+.subtitle {
+  font-size: 15px;
+}
+
+.grey-btn {
+  background-color: #e4e7eb;
+  color: black;
+  height: 40px;
+}
+.btn-xl {
+  padding: 1em;
+}
+
+.input {
+  height: 40px;
+  width: 100%;
+  border: 1px solid #dee2e6;
+  padding: 0 16px;
+  font-size: 15px;
+  color: #495057;
+}
+.input-label {
+  line-height: 40px;
+  font-size: 15px;
+}
+.text-description {
+  font-size: 14px;
+  color: #495057;
+  line-height: 20px;
+}
+
+.table {
+  th,
+  td {
+    padding: 0 8px;
+    line-height: 32px;
+    font-size: 15px;
+  }
+  thead {
+    border-top: 1px solid #e8e9ea;
+  }
+  tfoot {
+    border-top: 1px solid #e8e9ea;
+  }
+}
+.prev-btn {
+  svg {
+    transform: scale(1.5);
+    position: relative;
+    top: -3px;
+  }
+}
+.text-grey {
+  color: #6c757d;
+}
